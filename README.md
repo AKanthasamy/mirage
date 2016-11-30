@@ -2,7 +2,7 @@ Mirage
 ======
 
 [![Build Status](https://travis-ci.org/SpectoLabs/mirage.png?branch=master)](https://travis-ci.org/SpectoLabs/mirage)
-[![Documentation Status](https://readthedocs.org/projects/mirage/badge/?version=latest)](http://mirage.readthedocs.org/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/mirage-docs/badge/?version=latest)](http://mirage-docs.readthedocs.io/en/latest/?badge=latest)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SpectoLabs/mirage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
 Mirage enables development and automated testing by allowing you to virtualize your application dependencies.
@@ -12,7 +12,7 @@ Mirage enables development and automated testing by allowing you to virtualize y
 
 ### readthedocs
 
-The [readthedocs documentation](<http://mirage.readthedocs.org/en/latest/?badge=latest/>) is the official Mirage documentation.
+The [readthedocs documentation](<http://mirage-docs.readthedocs.io/en/latest/?badge=latest/>) is the official Mirage documentation.
 
 ### Wiki
 
